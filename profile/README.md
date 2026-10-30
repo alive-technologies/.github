@@ -9,6 +9,7 @@ AI, DevOps & cloud engineering from Skopje, building for teams across Europe.
 - 🏥 Healthcare technology
 
 **Open source**
+
 Tools and experiments we use in our own work, shared publicly. Issues and PRs welcome.
 
 🌐 [alivetechs.com](https://alivetechs.com) · 💼 [LinkedIn](https://www.linkedin.com/company/alivetechs) · ✉️ ivan@alivetechs.com
